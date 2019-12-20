@@ -176,13 +176,13 @@
       },
       {
         "uri": "widgets/Splash/Widget",
-        "visible": false,
         "position": {
           "relativeTo": "browser"
         },
         "version": "2.14",
         "id": "widgets_Splash_Widget_14",
-        "name": "Splash"
+        "name": "Splash",
+        "config": "configs/Splash/config_widgets_Splash_Widget_14.json"
       },
       {
         "uri": "widgets/ZoomSlider/Widget",
